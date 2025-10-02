@@ -1,16 +1,12 @@
-# teste
+# Testes com Flutter
+### Paulo Vitor
 
-A new Flutter project.
+Aqui estará um repositório de um projeto flutter que será constantemente alterado, visto que sempre farei diferentes testes nesse mesmo projeto. 
 
-## Getting Started
+## Contato
+Em caso de dúvidas, contate:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Email: paulo.borges.prates@gmail.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Telefone: (12) 99181-0618
